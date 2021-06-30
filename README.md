@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshaynot
-- 👀 I’m interested in Learning New technologies
-- 🌱 I’m currently learning ML 
-- 💞️ I’m looking to collaborate on Youtube
+- 👀 I’m Learner
+- 🌱 I’m currently learning ML, Flutter 
+- 💞️ I’m am also a content creator
 
 
 <!---
